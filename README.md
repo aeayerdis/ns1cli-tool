@@ -12,7 +12,7 @@ Basic commandline tool for communicating with the NS1 DNS services.
  pandas,
  tabulate,
  colorama,
- termcolor.
+ termcolor,
  pyfiglet
   
   

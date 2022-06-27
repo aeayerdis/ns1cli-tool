@@ -1,5 +1,5 @@
 # ns1cli
-Basic commandline tool for communicating with the NS1 DNS services.
+Basic commandline tool for communicating with the NS1 DNS services. Not nearly as fancy as "true" cli tools. Hacked together by python novice. Google is my best friend.
 
 # Pre-Reqs
 1. NS1 API Key

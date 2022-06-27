@@ -8,7 +8,7 @@ Basic commandline tool for communicating with the NS1 DNS services.
  getopt,
  sys,
  pprint,
- ns1,
+ ns1-python,
  pandas,
  tabulate,
  colorama,

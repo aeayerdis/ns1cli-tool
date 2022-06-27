@@ -5,14 +5,14 @@ Basic commandline tool for communicating with the NS1 DNS services.
 1. NS1 API Key
 2. Python v3.8
 3. Libraries:
- getopt
- sys
- pprint
- ns1
- pandas
- tabulate
- colorama
- termcolor
+ getopt,
+ sys,
+ pprint,
+ ns1,
+ pandas,
+ tabulate,
+ colorama,
+ termcolor.
  pyfiglet
   
   

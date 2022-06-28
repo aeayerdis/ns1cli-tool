@@ -45,13 +45,13 @@ Set-Alias -Name ns1cli -Value ns1cli-h
 ```
 
 # Dependencies
--[ns1-python](https://github.com/ns1/ns1-python)
--getopt
--sys
--pprint
--pandas
--tabulate
--colorama
--termcolor
--pyfiglet
+- [ns1-python](https://github.com/ns1/ns1-python)
+- getopt
+- sys
+- pprint - Output
+- pandas - Output
+- tabulate - Output
+- colorama - for fun effect
+- termcolor - for fun effect
+- pyfiglet - for fun effect
 

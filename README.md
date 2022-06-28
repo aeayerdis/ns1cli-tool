@@ -53,3 +53,7 @@ Set-Alias -Name ns1cli-add -Value ns1add
 function ns1cli-h {py C:\Users\Username\ns1cli\ns1cli.py}
 Set-Alias -Name ns1cli -Value ns1cli-h
 ```
+
+# Dependencies
+Refer to the ns1-python documentation for interacting with the API
+https://github.com/ns1/ns1-python

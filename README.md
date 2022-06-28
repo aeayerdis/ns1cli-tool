@@ -55,5 +55,5 @@ Set-Alias -Name ns1cli -Value ns1cli-h
 ```
 
 # Dependencies
-Refer to the [ns1-python](https://github.com/ns1/ns1-python) documentation for interacting with the API
+[ns1-python](https://github.com/ns1/ns1-python)
 

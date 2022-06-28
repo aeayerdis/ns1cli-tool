@@ -7,17 +7,7 @@ This cli tool's purpose to pull DNS Zone/Record data and create some standard DN
 # Pre-Reqs
 1. NS1 API Key
 2. Python v3.8
-3. Libraries Used:
- getopt,
- sys,
- pprint,
- ns1-python,
- pandas,
- tabulate,
- colorama,
- termcolor,
- pyfiglet
- 4. Create directory "ns1cli" to add the scripts
+3. Create directory "ns1cli" to add the scripts
   
 # Windows ALIAS Creation
 Create an ALIAS for executing scripts
@@ -55,5 +45,13 @@ Set-Alias -Name ns1cli -Value ns1cli-h
 ```
 
 # Dependencies
-[ns1-python](https://github.com/ns1/ns1-python)
+-[ns1-python](https://github.com/ns1/ns1-python)
+-getopt
+-sys
+-pprint
+-pandas
+-tabulate
+-colorama
+-termcolor
+-pyfiglet
 

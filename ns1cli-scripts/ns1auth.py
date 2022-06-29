@@ -20,6 +20,8 @@ for g in g_data:
     gkey = g["apiKey"]
 
 
+# read only key
 gk = gkey
 
+# write key
 pk = pkey

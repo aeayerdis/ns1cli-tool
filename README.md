@@ -83,3 +83,7 @@ from ns1auth import pk
 
 api = NS1(apiKey=pk)
 ```
+Although its not advised, you can add the API Key in the body of the script
+```python
+api = NS1(apiKey="YOUR_KEY")
+```

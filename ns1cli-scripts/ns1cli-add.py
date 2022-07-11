@@ -17,7 +17,7 @@ config = api.config
 config["follow_pagination"] = True
 
 
-def ns1cli_spf(argv):
+def ns1cli_add(argv):
     r = None
     t = None
     a = None
@@ -60,4 +60,4 @@ def ns1cli_spf(argv):
 
 
 if __name__ == "__main__":
-    ns1cli_spf(sys.argv[1:])
+    ns1cli_add(sys.argv[1:])
